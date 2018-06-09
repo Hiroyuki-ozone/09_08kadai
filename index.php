@@ -21,7 +21,7 @@
 <form method="post" action="insert.php">
   <div class="jumbotron">
    <fieldset>
-    <legend>フリーアンケート</legend>
+    <legend>ほんのブックマーク</legend>
      <label>Book name：<input type="text" name="book_name"></label><br>
      <label>Book url：<input type="text" name="book_url"></label><br>
      <label><textArea name="comment" rows="4" cols="40"></textArea></label><br>
