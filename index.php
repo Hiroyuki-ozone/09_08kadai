@@ -22,9 +22,9 @@
   <div class="jumbotron">
    <fieldset>
     <legend>フリーアンケート</legend>
-     <label>名前：<input type="text" name="name"></label><br>
-     <label>Email：<input type="text" name="email"></label><br>
-     <label><textArea name="naiyou" rows="4" cols="40"></textArea></label><br>
+     <label>Book name：<input type="text" name="book_name"></label><br>
+     <label>Book url：<input type="text" name="book_url"></label><br>
+     <label><textArea name="comment" rows="4" cols="40"></textArea></label><br>
      <input type="submit" value="送信">
     </fieldset>
   </div>
